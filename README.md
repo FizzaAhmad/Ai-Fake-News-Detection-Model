@@ -4,6 +4,6 @@ An AI-based Fake News Detection Model that uses natural language processing and 
 
 The dataset is too large for GitHub. You can download it from Google Drive:
 
-📂 [Download Archive Folder (fake.csv & true.csv)](https://drive.google.com/archive)
+📂 (https://drive.google.com/https://drive.google.com/drive/folders/17Sk1HiOXLmxUhx9KbHGp1nhHgnXg94dW?usp=drive_link)
 
 Make sure to place both files in the `dataset/` folder after downloading.
