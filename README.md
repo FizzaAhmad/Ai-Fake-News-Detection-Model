@@ -3,7 +3,9 @@ An AI-based Fake News Detection Model that uses natural language processing and 
 ## 📥 Dataset Download
 
 The dataset is too large for GitHub. You can download it from Google Drive:
+Download archive folder for dataset
 
-📂 (https://drive.google.com/https://drive.google.com/drive/folders/17Sk1HiOXLmxUhx9KbHGp1nhHgnXg94dW?usp=drive_link)
+(https://drive.google.com/file/d/1MZYqhJ_-lxeRvLLNxG6gwRp6T4EwoKUR/view?usp=drive_link)
+https://drive.google.com/file/d/1p20WVXuTix5tz2jGKMxlpBy2tpZiPwZg/view?usp=drive_link
 
 Make sure to place both files in the `dataset/` folder after downloading.
